@@ -1,0 +1,7 @@
+ChatGPT_Digested/*
+!ChatGPT_Digested/.gitkeep
+ChatGPT_Exports/*
+!ChatGPT_Exports/.gitkeep
+*.pyc
+__pycache__/
+.DS_Store
