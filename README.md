@@ -1,5 +1,7 @@
 # ChatGPT Archive Digester
 
+**Disclaimer:** This project is provided “AS-IS,” use it at your own risk, and no responsibility is accepted for any adverse outcomes.
+
 This utility exists because ChatGPT export data is optimized for machines, not humans. The export is a graph of nodes, mixed metadata, and file references that often needs aggressive cleaning before it is readable or analyzable. The goal is to produce a human-friendly, stable layout organized by conversation ID and to merge multiple overlapping exports without clobbering or duplicating messages.
 
 ## Why This Exists
@@ -122,6 +124,7 @@ A GitHub Actions workflow (`.github/workflows/ci.yml`) runs on pushes and pull r
 - `docs/python_context_standard.md`: the shared context for Python work in this repo.
 - `docs/logic_tree.md`: ASCII flowchart describing how digester options affect the pipeline.
 - `docs/october-archive-article.md`: long-form write-up explaining the project, October gatekeeping, and why you should archive locally.
+- `docs/project-blog-article.md`: blog-style essay describing why the digester exists, the gatekeeping pressures it fights, and how it changed my workflow.
 - `chatgpt_conversations.schema.json` + `ChatGPT_Export_Schema_Analysis.md`: define the export format and quirks so you know what data the digester expects.
 
 ## Requirements

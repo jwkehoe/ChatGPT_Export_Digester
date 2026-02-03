@@ -5,3 +5,8 @@ ChatGPT_Exports/*
 *.pyc
 __pycache__/
 .DS_Store
+docs/october-gatekeeping-article-v2.md
+docs/october-gatekeeping-linkedin.md
+docs/project-blog-article.md
+docs/graphics/
+docs/content/

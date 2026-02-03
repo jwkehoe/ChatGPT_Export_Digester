@@ -1,5 +1,7 @@
 # Guard Your October Conversations
 
+**Disclaimer:** This article is provided “AS-IS,” use it at your own risk, and no responsibility is accepted for any unintended consequences.
+
 With the “October gatekeeping” tightening access and retention on AI chat platforms, protecting your histories and assets means moving them off the platform and into your own tooling. This project gives you a full pipeline to do exactly that.
 
 ## What it is

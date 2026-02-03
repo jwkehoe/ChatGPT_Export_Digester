@@ -1,5 +1,7 @@
 # Python Context & Scaffold
 
+**Disclaimer:** This guidance is provided “AS-IS”; use it at your own risk, and no responsibility is accepted for any untoward outcomes.
+
 ## Overview
 This repository stages everything needed to pull ChatGPT conversations off the platform, normalize them into human-friendly transcripts, and keep each referenced asset together with the messages that touch it.
 - `chatgpt_export_digester.py` ingests one or more export zips, merges overlaps, deduplicates messages, copies referenced assets into per-conversation `assets/` folders, and writes `conversation.md`, `messages.jsonl`, plus index/unresolved-asset reports.

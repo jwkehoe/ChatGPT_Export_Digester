@@ -1,5 +1,7 @@
 # ChatGPT Export Digester Logic Tree
 
+**Disclaimer:** The following reference is provided “AS-IS”; use it at your own risk, and no responsibility is accepted for any untoward outcomes.
+
 ```
                            +---------------------------+
                            | parse_args(...)           |

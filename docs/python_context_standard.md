@@ -1,5 +1,7 @@
 # Python Context Standard
 
+**Disclaimer:** This context guidance is provided “AS-IS,” use it at your own risk, and no responsibility is accepted for any unintended results.
+
 This repository now keeps a **formal context document** that captures how to think about Python work here. It is derived from the existing `ContextPython.md`/`ContextPython.txt` scaffold prompt plus the actual structure of `chatgpt_export_digester.py` and `rename_conversation_dirs.py`. Use it whenever you need to build or extend a Python module inside this project so you stay consistent.
 
 ## Why this exists

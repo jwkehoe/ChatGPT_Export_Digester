@@ -29,6 +29,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 # ----------------------------------------------------------------------------
+# Disclaimer: provided "AS-IS"; use at your own risk and no responsibility is accepted for unintended outcomes.
 """Rename conversation folders using titles from conversation.md.
 
 Scans conversation folders, slugifies the title, and renames the directory

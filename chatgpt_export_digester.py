@@ -29,6 +29,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 # ----------------------------------------------------------------------------
+# Disclaimer: provided "AS-IS"; use at your own risk and no responsibility is accepted for unintended outcomes.
 """ChatGPT export digester.
 
 Ingests one or more ChatGPT export zip files, normalizes conversations into
